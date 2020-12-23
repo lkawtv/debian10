@@ -1,12 +1,16 @@
 Informasi :
 
-# Debian 10
+# Debian 10 :
+
 wget -O install.sh "https://github.com/lkawtv/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
-# Untuk vps yang tidak langsung akses ke root
-setiap login vps melalui terminal jalankan perintah "sudo -i"
+# Untuk vps yang tidak langsung akses ke root :
+Setiap login vps melalui terminal jalankan perintah "sudo -i"
+
 1. sudo -i 
 2. apt install wget -y && wget -O install.sh "https://github.com/lkawtv/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
-# Catatan jika error saat mendownload silahkan jalankan perintah dibawah ini
+# Catatan :
+Jika error saat mendownload silahkan jalankan perintah dibawah ini
+
 echo "nameserver 8.8.8.8" > /etc/resolv.conf && echo "nameserver 8.8.4.4" >> /etc/resolv.conf
