@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+</style>
+</head>
+<bo<!DOCTYPE h<!DOCTYPE html>
+<h1 style="text-align: center;"><span style="color: #ffff00;"><strong>Mohon Maaf Belum Ada Banner</strong></span></h1>
+</body>
+</html>
