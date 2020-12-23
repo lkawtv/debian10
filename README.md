@@ -2,13 +2,13 @@ Informasi :
 
 # Debian 10 :
 
-wget -O install.sh "https://github.com/lkawtv/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
+wget -O install.sh "https://github.com/sshsedang/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
 # Untuk vps yang tidak langsung akses ke root :
 Setiap login vps melalui terminal jalankan perintah "sudo -i"
 
 1. sudo -i 
-2. apt install wget -y && wget -O install.sh "https://github.com/lkawtv/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
+2. apt install wget -y && wget -O install.sh "https://github.com/sshsedang/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
 # Catatan :
 Jika error saat mendownload silahkan jalankan perintah dibawah ini
