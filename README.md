@@ -1,5 +1,5 @@
 Informasi :
-# Update :
+# Update Module :
 apt update && apt upgrade -y && update-grub
 
 # Debian 10 :
