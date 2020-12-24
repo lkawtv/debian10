@@ -2,7 +2,7 @@ Informasi :
 # Update Module :
 apt update && apt upgrade -y && update-grub
 
-# Instalation Debian 10 :
+# Installation Debian 10 :
 
 wget -O install.sh "https://github.com/sshsedang/debian10/blob/main/install.sh?raw=true" && chmod +x install.sh && ./install.sh
 
