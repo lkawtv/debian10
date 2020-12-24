@@ -14,3 +14,6 @@ Setiap login vps melalui terminal jalankan perintah "sudo -i"
 Jika error saat mendownload silahkan jalankan perintah dibawah ini
 
 echo "nameserver 8.8.8.8" > /etc/resolv.conf && echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+
+# Dibuat Oleh :
+Wegare
